@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# an example way to segment the organized configuration 
+# right now I'm basically testing stuff on my current media, so I gotta stick it in its own little cubbie.
+ORK_MEDIA_NAVIGATION="/data/pub/orkhideya-media/nav"
+ORK_MEDIA_ARCHIVE="/data/pub/orkhideya-media/vault"
